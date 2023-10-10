@@ -1,0 +1,13 @@
+.form{
+    background-color: #3e88f7;
+    background: linear-gradient(190deg,rgb(0,101,219) 50% , rgba(0, 212, 255,1) 100%);
+}
+.row{
+    width: 75%;
+}
+.container {
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
